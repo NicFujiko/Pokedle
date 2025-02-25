@@ -1,7 +1,7 @@
 let tentativas = 1;
 
 let pokemonsIniciais = [
-    { nome: "Bulbasaur", geracao: 1, tipo: "Planta/Venenoso" },
+    { nome: "Bulbasaur", geracao: 1, tipo: "Planta" },
     { nome: "Charmander", geracao: 1, tipo: "Fogo" },
     { nome: "Squirtle", geracao: 1, tipo: "Água" },
     
@@ -25,7 +25,7 @@ let pokemonsIniciais = [
     { nome: "Fennekin", geracao: 6, tipo: "Fogo" },
     { nome: "Froakie", geracao: 6, tipo: "Água" },
     
-    { nome: "Rowlet", geracao: 7, tipo: "Planta/Voador" },
+    { nome: "Rowlet", geracao: 7, tipo: "Planta" },
     { nome: "Litten", geracao: 7, tipo: "Fogo" },
     { nome: "Popplio", geracao: 7, tipo: "Água" },
     
