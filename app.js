@@ -132,7 +132,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
 
     // Escolhe um novo Pokémon secreto
-    let pokemonSecreto = escolherPokemonAleatorio();
+    pokemonSecreto = escolherPokemonAleatorio();
 
     // Limpa o input e a mensagem anterior
     document.querySelector('#inputChute').value = '';
